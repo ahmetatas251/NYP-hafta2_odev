@@ -5,6 +5,7 @@ class Program
 {
     static void Main()
     {
+    
         var ekipmanlar = new List<Ekipman>
         {
             new Ekipman("LAB-001", "Kamera"),

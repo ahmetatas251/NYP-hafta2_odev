@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ekipman takip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3b5552539223984423a8b06cf86b919c7e30f3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ekipman takip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ekipman takip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
